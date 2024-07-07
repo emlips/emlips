@@ -2,8 +2,6 @@
 
 I'm a Northcoders Software Engineering graduate based in Norwich 🌻
 
-I'm currently learning Python 🐍
-
 I love working in teams 🤝 I'm up for any project collaborations! 
 
 I have experience in the following-
